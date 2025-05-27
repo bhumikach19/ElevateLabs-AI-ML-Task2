@@ -40,8 +40,3 @@ Before running this project, make sure you have Python installed on your system.
 - `EL_Task2.ipynb`: Jupyter notebook containing the analysis
 - `Titanic-Dataset.csv`: The dataset file
 - `requirements.txt`: List of required Python packages
-- `README.md`: This file
-
-## License
-
-This project is open source and available under the MIT License. 
